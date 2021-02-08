@@ -7,7 +7,7 @@ Packages required:<br>
 tqdm<br>
 pandas<br>
 tensorflow<br>
-matplotli,<br>
+matplotlib,<br>
 numpy<br>
 atpbar<br>
 mantichora<br>

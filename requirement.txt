@@ -1,0 +1,7 @@
+tqdm
+pandas
+tensorflow
+matplotlib
+numpy
+atpbar
+mantichora
